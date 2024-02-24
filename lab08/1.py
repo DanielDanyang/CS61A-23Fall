@@ -1,0 +1,1 @@
+link = Link(5, Link(6, Link(7)))
